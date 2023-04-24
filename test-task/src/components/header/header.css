@@ -1,0 +1,42 @@
+.main_header_container {
+    max-height: 20%;
+
+}
+
+.header_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main_name {
+    font-size: 30px;
+}
+
+.menu_btn {
+    font-size: 20px;
+}
+
+.h2_name {
+    margin-top: 40px;
+    color: red
+}
+
+.save_doc {
+    margin-right: 100px;
+    margin-top: 10px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-size: 20px
+}
+
+.download_btn {
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.menu_btn:hover {
+    cursor: pointer;
+}

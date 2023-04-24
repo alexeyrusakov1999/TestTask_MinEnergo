@@ -1,0 +1,58 @@
+.page_container {
+    margin-top: 30px;
+}
+
+.react_for_echarts {
+    margin-left: 0;
+    margin-top: 30px;
+    float: left;
+}
+
+
+.chart_description {
+    float: right;
+    width: 20%;
+    margin-right: 15%;
+    margin-top: 5%;
+}
+
+.chart_numbers {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.chart_text {
+    font-size: 15px;
+    max-width: 100px;
+}
+
+.description_container {
+    clear: both;
+    margin-top: 400px;
+}
+
+.left_description {
+    max-width: 20%;
+    float: left;
+}
+
+
+.right_description {
+    float: right;
+    max-width: 60%;
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 10%;
+
+
+
+}
+
+.border {
+    width: 50px;
+    border-left: 3px solid black;
+    height: 150px;
+    position: absolute;
+    margin-left: 23%;
+}

@@ -1,0 +1,51 @@
+.tab_container {
+    margin-top: 40px;
+}
+
+.tab_link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.tab_btn_fund {
+    margin-left: 30px;
+    border: none;
+    border-radius: 5%;
+    font-size: 20px;
+}
+
+.tab_btn_all {
+    border: none;
+    width: 100px;
+    border-radius: 5%;
+    font-size: 20px;
+}
+
+.tab_link_left {
+    color: white;
+    padding: 10px;
+    background-color: gray;
+    text-decoration: none;
+    width: 100px;
+    border-radius: 5%;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.tab_link_right {
+    color: white;
+    padding: 10px;
+    background-color: gray;
+    text-decoration: none;
+    margin-left: 30px;
+    border: none;
+    border-radius: 5%;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+
+.active {
+    background: black;
+    color: white;
+}
